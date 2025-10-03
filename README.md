@@ -48,4 +48,3 @@ Test Your Deployed MERN App:
 Access your deployed MERN application through the URL provided by Azure.
 Test all functionalities to ensure proper deployment and database connectivity.
 
-Link Submission
